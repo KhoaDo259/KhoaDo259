@@ -73,14 +73,3 @@
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=KhoaDo259&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
-
-### 🎞️ GIF Options
-
-<p align="center">
-  <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-  <img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-  <img align="right" width="300" src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" />
-  <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</p>
-
-
